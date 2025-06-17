@@ -2,10 +2,7 @@
  Generalisation in Pedestrian Detection: A  Comprehensive Benchmarking of CNNs and ViTs  Across Diverse Datasets
 # Evaluation Script and Finetuned Models
 
-This folder contains the **main evaluation script** for the project. Due to file size limitations, the finetuned models could not be submitted directly.
-
-**Access all necessary finetuned models here:**  
-[Google Drive – Finetuned Models](https://drive.google.com/drive/folders/13Rm5kyUwqlh_VtpbKnaQ6T7XC-MSLMXn?usp=sharing)
+This folder contains the **main evaluation script** for the project of the finetuned models.
 
 ---
 
